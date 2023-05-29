@@ -1,7 +1,7 @@
-###  <pre>                                  ✨ Coding Wallah GitHub Profile   ✨      </pre>
+##  <pre> ✨ Coding Wallah - Family : Welcome to the Open-Source Contribution 🚀 </pre>
 
-## Hello EveryOne 👋🏼,This is the SHIVAM SHARMA - Welcome to My Coding Wallah Family
-### <pre>🔥FIRE & Rebel Person - Just tryng Last attempt to make My OWN Open-Source Community - Before DIE ❤️</pre>
+## Hello EveryOne 👋🏼,This is the SHIVAM SHARMA - Your Mentor, Welcome to My Coding Wallah Family
+### <pre>🔥FIRE & Rebel Person - Just tryng Last attempt to make OUR OWN Open-Source Community - Before DIE ❤️</pre>
 ### 👉🏼 Seedha - Kaam Ki Baat Par Aate Hai - Logo Ko Real 🧑🏼‍💻👩🏼‍💻 Software Engineering Ka Matlb Dikhate Hai.
 ### 👉🏼 YouTube Par 🔥 FIRE Content se Lekar 👨🏼‍🏫 -> 🧑🏼‍💻 Realtime Project Banate Hai.
 ### 👉🏼 Sabke Sath Milkar ek DISCORD Par Apne ❤️ Learner GROUPS Banate Hai.
@@ -13,7 +13,7 @@
 - 👨🏼‍🏫 I’m currently working on [Java + DSA Vector Course 🔥](https://www.youtube.com/playlist?list=PLX9bvTDoPQkK4i3wh2ENbWDGQw4mljVhz)
 - 🚀 I’m currently learning EveryThing 😆
 - 💞️ Ready to collaborate with other content creators if it help me to grow my community.
-- 🥅 2023 Goal: MAKING own Open-Source Community.
+- 🎯 2023 Goal: MAKING own Open-Source Community.
 - 🔮 I don't know Future kya hoga, But Present me jo bhi hoga Apna Sabse Best Attempt Hoga.
 - 📫 How to reach me: <a href="https://discord.com/invite/czkRnasjD9"> Discord/CodingWallah </a>
 
