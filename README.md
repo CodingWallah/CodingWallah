@@ -6,7 +6,7 @@
 ### 👉🏼 YouTube Par 🔥 FIRE Content se Lekar 👨🏼‍🏫 -> 🧑🏼‍💻 Realtime Project Banate Hai.
 ### 👉🏼 Sabke Sath Milkar ek DISCORD Par Apne ❤️ Learner GROUPS Banate Hai.
 
-### YouTube Channels - <a href="https://www.youtube.com/@CodingWallahSir"> @CodingWallahSir</a> | <a href="https://www.youtube.com/@CodingWallahSir"> @CodingWallah-Family</a>
+### YouTube Channels - <a href="https://www.youtube.com/@CodingWallahSir"> @CodingWallahSir</a> | <a href="https://www.youtube.com/@CodingWallahOrg"> @CodingWallahOrg</a>
 
 <hr/>
   
